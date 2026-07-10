@@ -11,12 +11,6 @@
 		"datum":"/gregobase/hymni/12434"
   },
   {
-		"tags":["martyres","hymnus"],
-		"vesperae":"/gregobase/hymni/2571",
-    "datum":"/nocturnale/EXPMEXH_dcrochu",
-		"laudes":"/gregobase/hymni/2790"
-  },
-  {
 		"tags":[
 			["martyrum-tempore-paschali","martyres","vesperae","hymnus"],
 			["martyrum-tempore-paschali","martyres","laudes","hymnus"]

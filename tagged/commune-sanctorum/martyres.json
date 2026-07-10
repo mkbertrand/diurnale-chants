@@ -1,0 +1,17 @@
+[
+  {
+		"tags":["martyres","hymnus"],
+		"vesperae":"/gregobase/hymni/2571",
+    "datum":"/nocturnale/EXPMEXH_dcrochu",
+		"laudes":"/gregobase/hymni/2790"
+  },
+  {
+    "tags":["martyres","ii-vesperae","antiphona"],
+    "antiphona-i":"/gregobase/antiphonae/2186",
+    "antiphona-ii":"/gregobase/antiphonae/2482",
+    "antiphona-iii":"/gregobase/antiphonae/2198",
+    "antiphona-iv":"/gregobase/antiphonae/2665",
+    "antiphona-v":"/gregobase/antiphonae/1886",
+    "antiphona-magnificat":"/gregobase/antiphonae/1958"
+  }
+]
