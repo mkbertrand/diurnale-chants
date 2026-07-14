@@ -46,5 +46,50 @@
 		"antiphona-iv":"/fcc/lapaf2a4",
 		"antiphona-v":"/fcc/lapaf2a5",
 		"antiphona-benedictus":"/gregobase/antiphonae/18855"
+  },
+  {
+    "tags":["laudes","feria","feria-iii","antiphona"],
+		"antiphona-i":"/fcc/lapaf3a1",
+		"antiphona-ii":"/fcc/lapaf3a2",
+		"antiphona-iii":"/fcc/lapaf3a3",
+		"antiphona-iv":"/fcc/lapaf3a4",
+		"antiphona-v":"/fcc/lapaf3a5",
+		"antiphona-benedictus":"/gregobase/antiphonae/11804"
+  },
+  {
+    "tags":["laudes","feria","feria-iv","antiphona"],
+		"antiphona-i":"/fcc/lapaf4a1",
+		"antiphona-ii":"/fcc/lapaf4a2",
+		"antiphona-iii":"/fcc/lapaf4a3",
+		"antiphona-iv":"/fcc/lapaf4a4",
+		"antiphona-v":"/fcc/lapaf4a5",
+		"antiphona-benedictus":"/fcc/lapaf4be"
+  },
+  {
+    "tags":["laudes","feria","feria-v","antiphona"],
+		"antiphona-i":"/fcc/lapaf5a1",
+		"antiphona-ii":"/fcc/lapaf5a2",
+		"antiphona-iii":"/fcc/lapaf5a3",
+		"antiphona-iv":"/fcc/lapaf5a4",
+		"antiphona-v":"/fcc/lapaf5a5",
+		"antiphona-benedictus":"/gregobase/antiphona/12907"
+  },
+  {
+    "tags":["laudes","feria","feria-vi","antiphona"],
+		"antiphona-i":"/fcc/lapaf6a1",
+		"antiphona-ii":"/fcc/lapaf6a2",
+		"antiphona-iii":"/fcc/lapaf6a3",
+		"antiphona-iv":"/fcc/lapaf6a4",
+		"antiphona-v":"/fcc/lapaf6a5",
+		"antiphona-benedictus":"/gregobase/antiphonae/12053"
+  },
+  {
+    "tags":["laudes","feria","sabbatum","antiphona"],
+		"antiphona-i":"/fcc/lapaf7a1",
+		"antiphona-ii":"/fcc/lapaf7a2",
+		"antiphona-iii":"/fcc/lapaf7a3",
+		"antiphona-iv":"/fcc/lapaf7a4",
+		"antiphona-v":"/fcc/lapaf7a5",
+		"antiphona-benedictus":"/fcc/lapaf7be"
   }
 ]
