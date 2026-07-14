@@ -4,15 +4,10 @@
 			["confessor","vesperae","hymnus"],
 			["confessor","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/hymni/2407",
-		"confessor-pontifex":"/gregobase/hymni/2334"
+		"datum":"/gregobase/hymni/2407"
   },
   {
 		"tags":["confessor","laudes","hymnus"],
 		"datum":"/gregobase/hymni/17926"
-  },
-  {
-		"tags":["confessor-pontifex","laudes","hymnus"],
-		"datum":"/gregobase/hymni/17925"
   }
 ]

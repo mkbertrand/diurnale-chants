@@ -1,0 +1,37 @@
+[
+  {
+		"tags":["confessor-pontifex","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/1914",
+		"antiphona-ii":"/gregobase/antiphonae/2613",
+		"antiphona-iii":"/gregobase/antiphonae/2858",
+		"antiphona-iv":"/gregobase/antiphonae/2009",
+		"antiphona-v":"/gregobase/antiphonae/2592"
+  },
+  {
+		"tags":[
+			["confessor-pontifex","vesperae","hymnus"],
+			["confessor-pontifex","matutinum","hymnus"]
+		],
+		"datum":"/gregobase/hymni/2334"
+  },
+  {
+		"tags":["confessor-pontifex","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2223"
+  },
+  {
+		"tags":["confessor-pontifex","laudes","hymnus"],
+		"datum":"/gregobase/hymni/17925"
+  },
+  {
+		"tags":["confessor-pontifex","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/2306"
+  },
+  {
+		"tags":["confessor-pontifex","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2933"
+  },
+  {
+		"tags":["confessor-pontifex","papa","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/1820"
+  }
+]
