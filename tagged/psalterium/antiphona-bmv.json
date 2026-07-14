@@ -3,5 +3,20 @@
     "tags":["antiphona-bmv","alma-redemptoris","antiphona"],
 		"datum":"/gregobase/antiphonae-bmv/1851",
 		"solemnis":"/gregobase/antiphonae-bmv/11878"
+  },
+  {
+		"tags":["antiphona-bmv","ave-regina-coelorum","antiphona"],
+		"datum":"/gregobase/antiphonae-bmv/2153",
+		"solemnis":"/gregobase/antiphonae-bmv/2602"
+  },
+  {
+		"tags":["antiphona-bmv","regina-coeli","antiphona"],
+		"datum":"/gregobase/antiphonae-bmv/2290",
+		"solemnis":"/gregobase/antiphonae-bmv/1976"
+  },
+  {
+		"tags":["antiphona-bmv","salve-regina","antiphona"],
+		"datum":"/gregobase/antiphonae-bmv/2435",
+		"solemnis":"/gregobase/antiphonae-bmv/2715"
   }
 ]
