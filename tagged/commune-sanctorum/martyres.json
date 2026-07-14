@@ -1,9 +1,39 @@
 [
   {
+    "tags":["martyres","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/1821",
+		"antiphona-ii":"/gregobase/antiphonae/2338",
+		"antiphona-iii":"/gregobase/antiphonae/2746",
+		"antiphona-iv":"/gregobase/antiphonae/2051",
+		"antiphona-v":"/gregobase/antiphonae/1897"
+  },
+  {
 		"tags":["martyres","hymnus"],
 		"vesperae":"/gregobase/hymni/2571",
     "datum":"/nocturnale/EXPMEXH_dcrochu",
 		"laudes":"/gregobase/hymni/2790"
+  },
+  {
+		"tags":["martyres","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2682"
+  },
+  {
+		"tags":["martyres","matutinum","nocturna-i","antiphona"],
+    "antiphona-i":"/nocturnale/PMEXN1A1",
+    "antiphona-ii":"/nocturnale/PMEXN1A2",
+    "antiphona-iii":"/nocturnale/PMEXN1A3"
+  },
+  {
+		"tags":["martyres","matutinum","nocturna-ii","antiphona"],
+    "antiphona-i":"/nocturnale/PMEXN2A1",
+    "antiphona-ii":"/nocturnale/PMEXN2A2",
+    "antiphona-iii":"/nocturnale/PMEXN2A3"
+  },
+  {
+		"tags":["martyres","matutinum","nocturna-iii","antiphona"],
+    "antiphona-i":"/nocturnale/PMEXN3A1",
+    "antiphona-ii":"/nocturnale/PMEXN3A2",
+    "antiphona-iii":"/nocturnale/PMEXN3A3"
   },
   {
     "tags":["martyres","ii-vesperae","antiphona"],
