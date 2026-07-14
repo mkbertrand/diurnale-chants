@@ -6,6 +6,23 @@
 		],
 		"datum":"mode:8;%%(c4) Re(h)ctor(h') po(h)tens,(h) ve(h)rax(h') De(g)us,(g) (,) Qui(h) tém(h')pe(h)ras(h) re(g)rum(h') vi(h)ces,(h.) (;) Splen(h)dó(h')re(h) ma(g)n<i>e</i>() il(f)lú(g')mi(f)nas,(e) (,) Et(f) í(g')gni(g)bus(g) me(f)rí(h')di(g)em:(g.) (::)"
 	},
+  {
+		"tags":["sexta","dominica","per-annum","antiphona"],
+		"datum":"/gregobase/antiphonae/19869"
+  },
+  {
+		"tags":["sexta","feria","antiphona"],
+		"datum":"/gregobase/antiphonae/19875"
+  },
+  {
+		"tags":["sexta","feria","antiphona"],
+		"in-tempore-quadragesimae":"/gregobase/antiphonae/12198",
+		"in-tempore-passionis":"/gregobase/antiphonae/11918"
+  },
+  {
+		"tags":["sexta","in-tempore-paschali","temporale","antiphona"],
+		"datum":"/gregobase/antiphonae/18553"
+  },
 	{
 		"tags":[
 			["sexta","duplex-minus","hymnus"],

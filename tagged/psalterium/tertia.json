@@ -6,6 +6,23 @@
 		],
 		"datum":"mode:8;%%(c4) Nunc(h) san(h')cte(h) no(h)bis(h) Spí(h')ri(g)tus,(g) (,) U(h)num(h') Pa(h)tri(h) cum(g) Fí(h')li(h)o,(h.) (;) Di(h)gná(h')re(h) prom(g)ptus(f) ín(g')ge(f)ri(e) (,) No(f)stro(g') re(g)fú(g)sus(f) pé(h')cto(g)ri.(g.) (::)"
 	},
+  {
+		"tags":["tertia","dominica","per-annum","antiphona"],
+		"datum":"/gregobase/antiphonae/19869"
+  },
+  {
+		"tags":["tertia","feria","antiphona"],
+		"datum":"/gregobase/antiphonae/10876"
+  },
+  {
+		"tags":["tertia","feria","antiphona"],
+		"in-tempore-quadragesimae":"/gregobase/antiphonae/13088",
+		"in-tempore-passionis":"/gregobase/antiphonae/12134"
+  },
+  {
+		"tags":["tertia","in-tempore-paschali","temporale","antiphona"],
+		"datum":"/gregobase/antiphonae/18551"
+  },
 	{
 		"tags":[
 			["tertia","duplex-minus","hymnus"],
