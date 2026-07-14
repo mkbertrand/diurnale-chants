@@ -25,8 +25,34 @@
 		"solemnis":"/nocturnale/UMEXIc"
   },
   {
+		"tags":["martyr","matutinum","nocturna-i","antiphona"],
+		"antiphona-i":"/nocturnale/UMEXN1A1",
+		"antiphona-ii":"/nocturnale/UMEXN1A2",
+		"antiphona-iii":"/nocturnale/UMEXN1A3"
+  },
+  {
+		"tags":["martyr","matutinum","nocturna-ii","antiphona"],
+		"antiphona-i":"/nocturnale/UMEXN2A1",
+		"antiphona-ii":"/nocturnale/UMEXN2A2",
+		"antiphona-iii":"/nocturnale/UMEXN2A3"
+  },
+  {
+		"tags":["martyr","matutinum","nocturna-iii","antiphona"],
+		"antiphona-i":"/nocturnale/UMEXN3A1",
+		"antiphona-ii":"/nocturnale/UMEXN3A2",
+		"antiphona-iii":"/nocturnale/UMEXN3A3"
+  },
+  {
 		"tags":["martyr","laudes","hymnus"],
 		"datum":"/gregobase/hymni/12434"
+  },
+  {
+		"tags":["martyr","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/2855"
+  },
+  {
+		"tags":["martyr","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2879"
   },
   {
 		"tags":[
