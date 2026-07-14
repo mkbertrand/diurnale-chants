@@ -74,6 +74,10 @@
 		"datum":"/gregobase/antiphonae/2510"
   },
   {
+		"tags":["martyrum-tempore-paschali","matutinum","antiphona","antiphona-invitatorium"],
+    "datum":"/nocturnale/MRTPI"
+  },
+  {
 		"tags":["martyrum-tempore-paschali","martyres","matutinum","hymnus"],
     "datum":"/nocturnale/EXPMEXH_dcrochu"
   },
