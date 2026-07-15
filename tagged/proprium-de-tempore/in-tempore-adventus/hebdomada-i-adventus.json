@@ -1,14 +1,41 @@
 [
   {
 		"tags":[
-			["hebdomada-i-adventus","dominica","laudes","antiphona"],
-			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona"],
-			["hebdomada-i-adventus","hora-minor","antiphona"]
+			["hebdomada-i-adventus","dominica","laudes","antiphona","antiphona-i"],
+			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-i"],
+			["hebdomada-i-adventus","hora-minor","antiphona","antiphona-i"]
 		],
-		"antiphona-i":"/gregobase/antiphonae/2835",
-		"antiphona-ii":"/gregobase/antiphonae/2392",
-		"antiphona-iii":"/gregobase/antiphonae/2289",
-		"antiphona-iv":"/gregobase/antiphonae/1876",
-		"antiphona-v":"/gregobase/antiphonae/2631"
+		"datum":"/gregobase/antiphonae/2835"
+  },
+  {
+		"tags":[
+			["hebdomada-i-adventus","dominica","laudes","antiphona","antiphona-ii"],
+			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-ii"],
+			["hebdomada-i-adventus","tertia","antiphona","antiphona-ii"]
+		],
+		"datum":"/gregobase/antiphonae/2392"
+  },
+	{
+		"tags":[
+			["hebdomada-i-adventus","dominica","laudes","antiphona","antiphona-iii"],
+			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-iii"],
+			["hebdomada-i-adventus","sexta","antiphona","antiphona-iii"]
+		],
+		"datum":"/gregobase/antiphonae/2289"
+  },
+	{
+		"tags":[
+			["hebdomada-i-adventus","dominica","laudes","antiphona","antiphona-iv"],
+			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-iv"]
+		],
+		"datum":"/gregobase/antiphonae/1876"
+  },
+	{
+		"tags":[
+			["hebdomada-i-adventus","dominica","laudes","antiphona","antiphona-v"],
+			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-v"],
+			["hebdomada-i-adventus","nona","antiphona","antiphona-v"]
+		],
+		"datum":"/gregobase/antiphonae/2631"
   }
 ]
