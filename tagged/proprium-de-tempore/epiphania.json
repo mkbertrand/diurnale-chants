@@ -41,8 +41,8 @@
   {
 		"tags":["epiphania","matutinum","nocturna-iii","antiphona"],
     "antiphona-i":"/nocturnale/0101N2A2",
-		"antiphona-ii":"nocturnale/0106N3A2",
-		"antiphona-iii":"nocturnale/0106N3A3"
+		"antiphona-ii":"/nocturnale/0106N3A2",
+		"antiphona-iii":"/nocturnale/0106N3A3"
   },
   {
 		"tags":["epiphania","laudes","hymnus"],
