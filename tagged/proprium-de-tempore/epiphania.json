@@ -1,5 +1,13 @@
 [
   {
+		"tags":["epiphania","antiphona"],
+		"antiphona-i":"gregobase/2271",
+		"antiphona-ii":"gregobase/2692",
+		"antiphona-iii":"gregobase/2464",
+		"antiphona-iv":"gregobase/2004",
+		"antiphona-v":"gregobase/1968",
+  },
+  {
 		"tags":[
 			["epiphania","vesperae","hymnus"],
 			["epiphania","matutinum","hymnus"]
@@ -7,7 +15,77 @@
 		"datum":"/gregobase/hymni/2129"
   },
   {
+		"tags":["epiphania","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"gregobase/2368"
+  },
+  {
+		"tags":["epiphania","matutinum","antiphona","antiphona-invitatorium"],
+		"datum":"/nocturnale/0106I"
+  },
+  {
+		"tags":["epiphania","matutinum","nocturna-i","antiphona"],
+		"antiphona-i":"/nocturnale/0106N1A1",
+		"antiphona-ii":"/nocturnale/0106N1A2",
+		"antiphona-iii":"/nocturnale/0106N1A3"
+  },
+  {
+		"tags":["epiphania","matutinum","nocturna-ii","antiphona"],
+		"antiphona-i":"/nocturnale/0106N2A1",
+		"antiphona-ii":"/nocturnale/0106N2A2",
+		"antiphona-iii":"/nocturnale/0106N2A3"
+  },
+  {
+		"tags":["epiphania","festum","matutinum","nocturna-iii","antiphona","antiphona-i"],
+		"datum":"/nocturnale/0106N3A1"
+  },
+  {
+		"tags":["epiphania","matutinum","nocturna-iii","antiphona"],
+    "antiphona-i":"/nocturnale/0101N2A2",
+		"antiphona-ii":"nocturnale/0106N3A2",
+		"antiphona-iii":"nocturnale/0106N3A3"
+  },
+  {
 		"tags":["epiphania","laudes","hymnus"],
 		"datum":"/gregobase/hymni/2999"
+  },
+  {
+		"tags":["epiphania","laudes","antiphona","antiphona-benedictus"],
+		"datum":"gregobase/2382"
+  },
+  {
+		"tags":["epiphania","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"gregobase/2199"
+  },
+  {
+		"tags":["epiphania","dies-ii","laudes","antiphona","antiphona-benedictus"],
+		"datum":"gregobase/12046"
+  },
+  {
+		"tags":["epiphania","dies-ii","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"gregobase/2817"
+  },
+  {
+		"tags":["epiphania","dies-iii","laudes","antiphona","antiphona-benedictus"],
+		"datum":"gregobase/11912"
+  },
+  {
+		"tags":["epiphania","dies-iii","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"gregobase/1881"
+  },
+  {
+		"tags":["epiphania","dies-iv","laudes","antiphona","antiphona-benedictus"],
+		"datum":"gregobase/11894"
+  },
+  {
+		"tags":["epiphania","dies-iv","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"gregobase/2812"
+  },
+  {
+		"tags":["epiphania","dies-v","laudes","antiphona","antiphona-benedictus"],
+		"datum":"gregobase/11887"
+  },
+  {
+		"tags":["epiphania","dies-v","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"gregobase/2944"
   }
 ]
