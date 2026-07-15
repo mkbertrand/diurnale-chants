@@ -1,0 +1,14 @@
+[
+  {
+		"tags":[
+			["hebdomada-i-adventus","dominica","laudes","antiphona"],
+			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona"],
+			["hebdomada-i-adventus","hora-minor","antiphona"]
+		],
+		"antiphona-i":"/gregobase/antiphonae/2835",
+		"antiphona-ii":"/gregobase/antiphonae/2392",
+		"antiphona-iii":"/gregobase/antiphonae/2289",
+		"antiphona-iv":"/gregobase/antiphonae/1876",
+		"antiphona-v":"/gregobase/antiphonae/2631"
+  }
+]
