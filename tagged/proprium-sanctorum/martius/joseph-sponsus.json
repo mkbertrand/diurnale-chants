@@ -34,10 +34,18 @@
   },
   {
 		"tags":["joseph-sponsus","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0319N3A1",
+		"antiphona-i":"/nocturnale/0318N3A1",
 		"in-tempore-paschali":"/nocturnale/0319N3A1",
 		"antiphona-ii":"/nocturnale/0319N3A2",
 		"antiphona-iii":"/nocturnale/0319N3A3"
+  },
+  {
+    "tags":["joseph-sponsus","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2690",
+		"antiphona-ii":"/gregobase/antiphonae/2607",
+		"antiphona-iii":"/gregobase/antiphonae/2796",
+		"antiphona-iv":"/gregobase/antiphonae/2244",
+		"antiphona-v":"/gregobase/antiphonae/2147"
   },
   {
 		"tags":["joseph-sponsus","laudes","antiphona","antiphona-benedictus"],
