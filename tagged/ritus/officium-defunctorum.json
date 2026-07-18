@@ -9,6 +9,10 @@
 		"antiphona-magnificat":"/gregobase/antiphonae/2188"
   },
   {
+    "tags":["officium-defunctorum","benedicamus-domino"],
+    "datum":"/gregobase/etc/823"
+  },
+  {
 		"tags":["officium-defunctorum","matutinum","nocturna-i","antiphona"],
 		"antiphona-i":"/nocturnale/ODEFN1A1",
 		"antiphona-ii":"/nocturnale/ODEFN1A2",
