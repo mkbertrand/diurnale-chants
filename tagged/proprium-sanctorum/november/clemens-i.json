@@ -1,0 +1,22 @@
+[
+  {
+		"tags":["clemens-i","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2278",
+		"antiphona-ii":"/gregobase/antiphonae/2661",
+		"antiphona-iii":"/gregobase/antiphonae/2643",
+		"antiphona-iv":"/gregobase/antiphonae/2870",
+		"antiphona-v":"/gregobase/antiphonae/2020"
+  },
+  {
+		"tags":["clemens-i","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2551"
+  },
+  {
+		"tags":["clemens-i","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/12754"
+  },
+  {
+		"tags":["clemens-i","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2411"
+  }
+]
