@@ -1,0 +1,22 @@
+[
+  {
+		"tags":["assumptio-bmv","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2561",
+		"antiphona-ii":"/gregobase/antiphonae/2912",
+		"antiphona-iii":"/gregobase/antiphonae/2963",
+		"antiphona-iv":"/gregobase/antiphonae/2947",
+		"antiphona-v":"/gregobase/antiphonae/2861"
+  },
+  {
+		"tags":["assumptio-bmv","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2183"
+  },
+  {
+		"tags":["assumptio-bmv","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/2730"
+  },
+  {
+		"tags":["assumptio-bmv","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2700"
+  }
+]
