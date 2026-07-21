@@ -1,11 +1,11 @@
 [
   {
 		"tags":["pentecostes","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/19943",
-		"antiphona-ii":"/gregobase/antiphonae/2393",
-		"antiphona-iii":"/gregobase/antiphonae/2527",
-		"antiphona-iv":"/gregobase/antiphonae/2550",
-		"antiphona-v":"/gregobase/antiphonae/2311"
+		"antiphona-i":[["/antiphonae/19943"]],
+		"antiphona-ii":[["/antiphonae/2393"]],
+		"antiphona-iii":[["/antiphonae/2527"]],
+		"antiphona-iv":[["/antiphonae/2550"]],
+		"antiphona-v":[["/antiphonae/2311"]]
   },
 	{
 		"tags":[
@@ -16,7 +16,7 @@
 	},
   {
 		"tags":["pentecostes","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/3003"
+		"datum":[["/antiphonae/3003"]]
   },
   {
 		"tags":["pentecostes","matutinum","antiphona","antiphona-invitatorium"],
@@ -25,7 +25,7 @@
   {
 		"tags":["pentecostes","hymnus"],
 		"matutinum":"/nocturnale/P7H",
-		"laudes":"/gregobase/hymni/2926"
+		"laudes":[["/hymni/2926"]]
   },
   {
 		"tags":["pentecostes","matutinum","antiphona"],
@@ -35,54 +35,54 @@
   },
   {
 		"tags":["pentecostes","festum","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2375"
+		"datum":[["/antiphonae/2375"]]
   },
   {
 		"tags":["pentecostes","festum","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2249"
+		"datum":[["/antiphonae/2249"]]
   },
   {
 		"tags":["pentecostes","feria-ii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/11948"
+		"datum":[["/antiphonae/11948"]]
   },
   {
 		"tags":["pentecostes","feria-ii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2899"
+		"datum":[["/antiphonae/2899"]]
   },
   {
 		"tags":["pentecostes","feria-iii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12812"
+		"datum":[["/antiphonae/12812"]]
   },
   {
 		"tags":["pentecostes","feria-iii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2864"
+		"datum":[["/antiphonae/2864"]]
   },
   {
 		"tags":["pentecostes","feria-iv","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12949"
+		"datum":[["/antiphonae/12949"]]
   },
   {
 		"tags":["pentecostes","feria-iv","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2047"
+		"datum":[["/antiphonae/2047"]]
   },
   {
 		"tags":["pentecostes","feria-v","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12178"
+		"datum":[["/antiphonae/12178"]]
   },
   {
 		"tags":["pentecostes","feria-v","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2574"
+		"datum":[["/antiphonae/2574"]]
   },
   {
 		"tags":["pentecostes","feria-vi","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13321"
+		"datum":[["/antiphonae/13321"]]
   },
   {
 		"tags":["pentecostes","feria-vi","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2488"
+		"datum":[["/antiphonae/2488"]]
   },
   {
 		"tags":["pentecostes","sabbatum","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12491"
+		"datum":[["/antiphonae/12491"]]
   }
 ]

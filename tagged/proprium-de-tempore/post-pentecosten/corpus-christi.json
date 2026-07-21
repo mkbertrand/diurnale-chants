@@ -1,21 +1,21 @@
 [
   {
 		"tags":["corpus-christi","vesperae","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2546",
-		"antiphona-ii":"/gregobase/antiphonae/2459",
-		"antiphona-iii":"/gregobase/antiphonae/1877",
-		"antiphona-iv":"/gregobase/antiphonae/1921",
-		"antiphona-v":"/gregobase/antiphonae/2339"
+		"antiphona-i":[["/antiphonae/2546"]],
+		"antiphona-ii":[["/antiphonae/2459"]],
+		"antiphona-iii":[["/antiphonae/1877"]],
+		"antiphona-iv":[["/antiphonae/1921"]],
+		"antiphona-v":[["/antiphonae/2339"]]
   },
   {
 		"tags":["corpus-christi","hymnus"],
-		"vesperae":"/gregobase/hymni/1310",
+		"vesperae":[["/hymni/1310"]],
     "matutinum":"/nocturnale/H1F5H_marteo",
-		"laudes":"/gregobase/hymni/12107"
+		"laudes":[["/hymni/12107"]]
   },
   {
 		"tags":["corpus-christi","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2826"
+		"datum":[["/antiphonae/2826"]]
   },
   {
 		"tags":["corpus-christi","antiphona","antiphona-invitatorium"],
@@ -41,30 +41,30 @@
   },
   {
 		"tags":["corpus-christi","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2793",
-		"antiphona-ii":"/gregobase/antiphonae/2731",
-		"antiphona-iii":"/gregobase/antiphonae/2057",
-		"antiphona-iv":"/gregobase/antiphonae/2572",
-		"antiphona-v":"/gregobase/antiphonae/13297"
+		"antiphona-i":[["/antiphonae/2793"]],
+		"antiphona-ii":[["/antiphonae/2731"]],
+		"antiphona-iii":[["/antiphonae/2057"]],
+		"antiphona-iv":[["/antiphonae/2572"]],
+		"antiphona-v":[["/antiphonae/13297"]]
   },
   {
 		"tags":["corpus-christi","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/11844"
+		"datum":[["/antiphonae/11844"]]
   },
   {
 		"tags":["corpus-christi","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/13329"
+		"datum":[["/antiphonae/13329"]]
   },
   {
 		"tags":["corpus-christi","dominica-infra-octavam","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2957"
+		"datum":[["/antiphonae/2957"]]
   },
   {
 		"tags":["corpus-christi","dominica-infra-octavam","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2330"
+		"datum":[["/antiphonae/2330"]]
   },
   {
 		"tags":["corpus-christi","dominica-infra-octavam","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1929"
+		"datum":[["/antiphonae/1929"]]
   }
 ]

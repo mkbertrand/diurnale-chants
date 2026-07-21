@@ -1,22 +1,22 @@
 [
   {
 		"tags":["patrocinius-joseph","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2663",
-		"antiphona-ii":"/gregobase/antiphonae/2146",
-		"antiphona-iii":"/gregobase/antiphonae/12446",
-		"antiphona-iv":"/gregobase/antiphonae/12205",
-		"antiphona-v":"/gregobase/antiphonae/2005"
+		"antiphona-i":[["/antiphonae/2663"]],
+		"antiphona-ii":[["/antiphonae/2146"]],
+		"antiphona-iii":[["/antiphonae/12446"]],
+		"antiphona-iv":[["/antiphonae/12205"]],
+		"antiphona-v":[["/antiphonae/2005"]]
   },
   {
 		"tags":[
 			["patrocinius-joseph","vesperae","hymnus"],
 			["patrocinius-joseph","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/hymni/2235"
+		"datum":[["/hymni/2235"]]
   },
   {
 		"tags":["patrocinius-joseph","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/12798"
+		"datum":[["/antiphonae/12798"]]
   },
   {
 		"tags":["patrocinius-joseph","matutinum","antiphona","antiphona-invitatorium"],
@@ -36,14 +36,14 @@
   },
   {
 		"tags":["patrocinius-joseph","laudes","hymnus"],
-		"datum":"/gregobase/hymni/11972"
+		"datum":[["/hymni/11972"]]
   },
   {
 		"tags":["patrocinius-joseph","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12819"
+		"datum":[["/antiphonae/12819"]]
   },
   {
 		"tags":["patrocinius-joseph","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/12371"
+		"datum":[["/antiphonae/12371"]]
   }
 ]

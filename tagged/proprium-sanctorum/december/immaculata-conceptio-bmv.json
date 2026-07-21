@@ -1,15 +1,15 @@
 [
   {
 		"tags":["immaculata-conceptio-bmv","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2922",
-		"antiphona-ii":"/gregobase/antiphonae/2930",
-		"antiphona-iii":"/gregobase/antiphonae/2747",
-		"antiphona-iv":"/gregobase/antiphonae/2370",
-		"antiphona-v":"/gregobase/antiphonae/2078"
+		"antiphona-i":[["/antiphonae/2922"]],
+		"antiphona-ii":[["/antiphonae/2930"]],
+		"antiphona-iii":[["/antiphonae/2747"]],
+		"antiphona-iv":[["/antiphonae/2370"]],
+		"antiphona-v":[["/antiphonae/2078"]]
   },
   {
 		"tags":["immaculata-conceptio-bmv","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2695"
+		"datum":[["/antiphonae/2695"]]
   },
   {
 		"tags":["immaculata-conceptio-bmv","matutinum","antiphona","antiphona-invitatorium"],
@@ -42,10 +42,10 @@
   },
   {
 		"tags":["immaculata-conceptio-bmv","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2152"
+		"datum":[["/antiphonae/2152"]]
   },
   {
 		"tags":["immaculata-conceptio-bmv","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2494"
+		"datum":[["/antiphonae/2494"]]
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
 		"tags":["septem-dolores-septembris","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2228",
-		"antiphona-ii":"/gregobase/antiphonae/1878",
-		"antiphona-iii":"/gregobase/antiphonae/2646",
-		"antiphona-iv":"/gregobase/antiphonae/1967",
-		"antiphona-v":"/gregobase/antiphonae/2900"
+		"antiphona-i":[["/antiphonae/2228"]],
+		"antiphona-ii":[["/antiphonae/1878"]],
+		"antiphona-iii":[["/antiphonae/2646"]],
+		"antiphona-iv":[["/antiphonae/1967"]],
+		"antiphona-v":[["/antiphonae/2900"]]
   },
   {
 		"tags":["septem-dolores-septembris","hymnus"],
-		"vesperae":"/gregobase/hymni/4095"
+		"vesperae":[["/hymni/4095"]]
   },
   {
 		"tags":["septem-dolores-septembris","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2343"
+		"datum":[["/antiphonae/2343"]]
   },
   {
 		"tags":["septem-dolores-septembris","matutinum","antiphona","antiphona-invitatorium"],
@@ -43,14 +43,14 @@
   },
   {
 		"tags":["septem-dolores-septembris","hymnus"],
-		"laudes":"/gregobase/hymni/13067"
+		"laudes":[["/hymni/13067"]]
   },
   {
 		"tags":["septem-dolores-septembris","laudes","antiphona","antiphona-benedictus"],
-    "datum":"/gregobase/antiphonae/13316"
+    "datum":[["/antiphonae/13316"]]
   },
   {
 		"tags":["septem-dolores-septembris","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1980"
+		"datum":[["/antiphonae/1980"]]
   }
 ]

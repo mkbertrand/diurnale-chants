@@ -4,46 +4,46 @@
 			["hebdomada-ii-paschae","dominica","i-vesperae","antiphona","antiphona-magnificat"],
 			["hebdomada-ii-paschae","dominica","laudes","antiphona","antiphona-benedictus"]
 		],
-		"datum":"/gregobase/antiphonae/1833"
+		"datum":[["/antiphonae/1833"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","dominica","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2247"
+		"datum":[["/antiphonae/2247"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","feria-ii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12890"
+		"datum":[["/antiphonae/12890"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","feria-ii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/12204"
+		"datum":[["/antiphonae/12204"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","feria-iii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12755"
+		"datum":[["/antiphonae/12755"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","feria-iii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/19818"
+		"datum":[["/antiphonae/19818"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","feria-iv","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12867"
+		"datum":[["/antiphonae/12867"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","feria-iv","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/12525"
+		"datum":[["/antiphonae/12525"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","feria-v","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12765"
+		"datum":[["/antiphonae/12765"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","feria-v","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/12891"
+		"datum":[["/antiphonae/12891"]]
   },
   {
 		"tags":["hebdomada-ii-paschae","feria-vi","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13095"
+		"datum":[["/antiphonae/13095"]]
   }
 ]

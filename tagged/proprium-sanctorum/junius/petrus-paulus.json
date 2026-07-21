@@ -1,27 +1,27 @@
 [
   {
 		"tags":["petrus-paulus","duplex-i-classis","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/1866",
-		"antiphona-ii":"/gregobase/antiphonae/2580",
-		"antiphona-iii":"/gregobase/antiphonae/2589",
-		"antiphona-iv":"/gregobase/antiphonae/2557",
-		"antiphona-v":"/gregobase/antiphonae/1950"
+		"antiphona-i":[["/antiphonae/1866"]],
+		"antiphona-ii":[["/antiphonae/2580"]],
+		"antiphona-iii":[["/antiphonae/2589"]],
+		"antiphona-iv":[["/antiphonae/2557"]],
+		"antiphona-v":[["/antiphonae/1950"]]
   },
   {
 		"tags":["petrus-paulus","duplex-i-classis","hymnus"],
-		"vesperae":"/gregobase/hymni/2761",
-		"laudes":"/gregobase/hymni/1988"
+		"vesperae":[["/hymni/2761"]],
+		"laudes":[["/hymni/1988"]]
   },
   {
 		"tags":["petrus-paulus","duplex-i-classis","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2717"
+		"datum":[["/antiphonae/2717"]]
   },
   {
 		"tags":["petrus-paulus","duplex-i-classis","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2689"
+		"datum":[["/antiphonae/2689"]]
   },
   {
 		"tags":["petrus-paulus","duplex-i-classis","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1918"
+		"datum":[["/antiphonae/1918"]]
   }
 ]

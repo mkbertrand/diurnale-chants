@@ -4,7 +4,7 @@
 			["purificatio-bmv","i-vesperae","antiphona","antiphona-magnificat"],
 			["purificatio-bmv","i-vesperae","antiphona","antiphona-magnificat","in-tempore-septuagesimae"]
 		],
-		"datum":"/gregobase/antiphonae/1979"
+		"datum":[["/antiphonae/1979"]]
   },
   {
 		"tags":["purificatio-bmv","matutinum","antiphona","antiphona-invitatorium"],
@@ -12,18 +12,18 @@
   },
   {
 		"tags":["purificatio-bmv","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2652",
-		"antiphona-ii":"/gregobase/antiphonae/1853",
-		"antiphona-iii":"/gregobase/antiphonae/1944",
-		"antiphona-iv":"/gregobase/antiphonae/1846",
-		"antiphona-v":"/gregobase/antiphonae/2505"
+		"antiphona-i":[["/antiphonae/2652"]],
+		"antiphona-ii":[["/antiphonae/1853"]],
+		"antiphona-iii":[["/antiphonae/1944"]],
+		"antiphona-iv":[["/antiphonae/1846"]],
+		"antiphona-v":[["/antiphonae/2505"]]
   },
   {
 		"tags":["purificatio-bmv","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13145"
+		"datum":[["/antiphonae/13145"]]
   },
   {
 		"tags":["purificatio-bmv","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2750"
+		"datum":[["/antiphonae/2750"]]
   }
 ]

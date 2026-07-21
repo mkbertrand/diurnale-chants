@@ -1,18 +1,18 @@
 [
   {
 		"tags":["pascha","i-vesperae","antiphona","antiphona-i"],
-		"datum":"/gregobase/antiphonae/2308"
+		"datum":[["/antiphonae/2308"]]
   },
   {
 		"tags":[
 			["pascha","i-vesperae","vesperae","antiphona","antiphona-magnificat"],
 			["pascha","i-vesperae","completorium","antiphona","antiphona-nunc-dimittis"]
 		],
-		"datum":"/gregobase/antiphonae/12662"
+		"datum":[["/antiphonae/12662"]]
   },
   {
 		"tags":["dismissio","pascha","i-vesperae","vesperae"],
-		"datum":"/gregobase/etc/15464"
+		"datum":[["/etc/15464"]]
   },
   {
 		"tags":["pascha","matutinum","antiphona"],
@@ -23,70 +23,70 @@
   },
   {
 		"tags":["pascha","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/1952",
-		"antiphona-ii":"/gregobase/antiphonae/2038",
-		"antiphona-iii":"/gregobase/antiphonae/2344",
-		"antiphona-iv":"/gregobase/antiphonae/2959",
-		"antiphona-v":"/gregobase/antiphonae/2171"
+		"antiphona-i":[["/antiphonae/1952"]],
+		"antiphona-ii":[["/antiphonae/2038"]],
+		"antiphona-iii":[["/antiphonae/2344"]],
+		"antiphona-iv":[["/antiphonae/2959"]],
+		"antiphona-v":[["/antiphonae/2171"]]
   },
   {
 		"tags":["antiphona","haec-dies"],
-		"datum":"/gregobase/etc/2230"
+		"datum":[["/etc/2230"]]
   },
   {
 		"tags":["pascha","dominica","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/1358"
+		"datum":[["/antiphonae/1358"]]
   },
   {
 		"tags":["pascha","dominica","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2732"
+		"datum":[["/antiphonae/2732"]]
   },
   {
 		"tags":["pascha","completorium","antiphona"],
-		"datum":"/gregobase/antiphonae/4499"
+		"datum":[["/antiphonae/4499"]]
   },
   {
 		"tags":["pascha","feria-ii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/11971"
+		"datum":[["/antiphonae/11971"]]
   },
   {
 		"tags":["pascha","feria-ii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2314"
+		"datum":[["/antiphonae/2314"]]
   },
   {
 		"tags":["pascha","feria-iii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12689"
+		"datum":[["/antiphonae/12689"]]
   },
   {
 		"tags":["pascha","feria-iii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2148"
+		"datum":[["/antiphonae/2148"]]
   },
   {
 		"tags":["pascha","feria-iv","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12153"
+		"datum":[["/antiphonae/12153"]]
   },
   {
 		"tags":["pascha","feria-iv","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2023"
+		"datum":[["/antiphonae/2023"]]
   },
   {
 		"tags":["pascha","feria-v","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/11828"
+		"datum":[["/antiphonae/11828"]]
   },
   {
 		"tags":["pascha","feria-v","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2150"
+		"datum":[["/antiphonae/2150"]]
   },
   {
 		"tags":["pascha","feria-vi","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12261"
+		"datum":[["/antiphonae/12261"]]
   },
   {
 		"tags":["pascha","feria-vi","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2917"
+		"datum":[["/antiphonae/2917"]]
   },
   {
 		"tags":["pascha","sabbatum","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12917"
+		"datum":[["/antiphonae/12917"]]
   }
 ]

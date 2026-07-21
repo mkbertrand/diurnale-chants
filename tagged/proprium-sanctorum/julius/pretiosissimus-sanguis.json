@@ -1,19 +1,19 @@
 [
   {
 		"tags":["pretiosissimus-sanguis","vesperae","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2248",
-		"antiphona-ii":"/gregobase/antiphonae/2069",
-		"antiphona-iii":"/gregobase/antiphonae/2225",
-		"antiphona-iv":"/gregobase/antiphonae/2066",
-		"antiphona-v":"/gregobase/antiphonae/2511"
+		"antiphona-i":[["/antiphonae/2248"]],
+		"antiphona-ii":[["/antiphonae/2069"]],
+		"antiphona-iii":[["/antiphonae/2225"]],
+		"antiphona-iv":[["/antiphonae/2066"]],
+		"antiphona-v":[["/antiphonae/2511"]]
   },
   {
 		"tags":["pretiosissimus-sanguis","hymnus"],
-		"vesperae":"/gregobase/hymni/2839"
+		"vesperae":[["/hymni/2839"]]
   },
   {
 		"tags":["pretiosissimus-sanguis","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2509"
+		"datum":[["/antiphonae/2509"]]
   },
   {
 		"tags":["pretiosissimus-sanguis","matutinum","antiphona","antiphona-invitatorium"],
@@ -43,22 +43,22 @@
   },
   {
 		"tags":["pretiosissimus-sanguis","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2015",
-		"antiphona-ii":"/gregobase/antiphonae/2397",
-		"antiphona-iii":"/gregobase/antiphonae/2379",
-		"antiphona-iv":"/gregobase/antiphonae/1945",
-		"antiphona-v":"/gregobase/antiphonae/2414"
+		"antiphona-i":[["/antiphonae/2015"]],
+		"antiphona-ii":[["/antiphonae/2397"]],
+		"antiphona-iii":[["/antiphonae/2379"]],
+		"antiphona-iv":[["/antiphonae/1945"]],
+		"antiphona-v":[["/antiphonae/2414"]]
   },
   {
 		"tags":["pretiosissimus-sanguis","hymnus"],
-		"laudes":"/gregobase/hymni/2294"
+		"laudes":[["/hymni/2294"]]
   },
   {
 		"tags":["pretiosissimus-sanguis","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2894"
+		"datum":[["/antiphonae/2894"]]
   },
   {
 		"tags":["pretiosissimus-sanguis","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2444"
+		"datum":[["/antiphonae/2444"]]
   }
 ]

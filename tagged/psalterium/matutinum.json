@@ -71,8 +71,8 @@
   },
   {
 		"tags":["hymnus","te-deum"],
-		"datum":"/gregobase/hymni/2305",
-		"solemnis":"/gregobase/hymni/2809"
+		"datum":[["/hymni/2305"]],
+		"solemnis":[["/hymni/2809"]]
   },
   {
 		"tags":["matutinum","feria","feria-ii","antiphona","antiphona-invitatorium"],

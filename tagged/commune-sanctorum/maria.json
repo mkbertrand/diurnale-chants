@@ -1,17 +1,17 @@
 [
   {
     "tags":["maria","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2000",
-		"antiphona-ii":"/gregobase/antiphonae/2514",
-		"antiphona-iii":"/gregobase/antiphonae/2007",
-		"antiphona-iv":"/gregobase/antiphonae/2056",
-		"antiphona-v":"/gregobase/antiphonae/18381"
+		"antiphona-i":[["/antiphonae/2000"]],
+		"antiphona-ii":[["/antiphonae/2514"]],
+		"antiphona-iii":[["/antiphonae/2007"]],
+		"antiphona-iv":[["/antiphonae/2056"]],
+		"antiphona-v":[["/antiphonae/18381"]]
   },
   {
 		"tags":["maria","hymnus"],
-		"vesperae":"/gregobase/hymni/2232",
+		"vesperae":[["/hymni/2232"]],
 		"matutinum":"/nocturnale/CBMVH",
-		"laudes":"/gregobase/hymni/2885"
+		"laudes":[["/hymni/2885"]]
   },
   {
 		"tags":[
@@ -52,10 +52,10 @@
   },
   {
 		"tags":["maria","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13018"
+		"datum":[["/antiphonae/13018"]]
   },
   {
 		"tags":["maria","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2950"
+		"datum":[["/antiphonae/2950"]]
   }
 ]

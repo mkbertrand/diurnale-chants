@@ -1,22 +1,22 @@
 [
   {
 		"tags":["conversio-pauli","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2098",
-		"antiphona-ii":"/gregobase/antiphonae/2725",
-		"antiphona-iii":"/gregobase/antiphonae/2843",
-		"antiphona-iv":"/gregobase/antiphonae/1912",
-		"antiphona-v":"/gregobase/antiphonae/2262"
+		"antiphona-i":[["/antiphonae/2098"]],
+		"antiphona-ii":[["/antiphonae/2725"]],
+		"antiphona-iii":[["/antiphonae/2843"]],
+		"antiphona-iv":[["/antiphonae/1912"]],
+		"antiphona-v":[["/antiphonae/2262"]]
   },
   {
 		"tags":[
 			["conversio-pauli","vesperae","hymnus"],
 			["conversio-pauli","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/hymni/2611"
+		"datum":[["/hymni/2611"]]
   },
   {
 		"tags":["conversio-pauli","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2598"
+		"datum":[["/antiphonae/2598"]]
   },
   {
 		"tags":["conversio-pauli","matutinum","antiphona","antiphona-invitatorium"],
@@ -42,10 +42,10 @@
   },
   {
 		"tags":["conversio-pauli","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12436"
+		"datum":[["/antiphonae/12436"]]
   },
   {
 		"tags":["conversio-pauli","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2937"
+		"datum":[["/antiphonae/2937"]]
   }
 ]

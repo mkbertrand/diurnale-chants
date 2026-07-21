@@ -1,15 +1,15 @@
 [
   {
 		"tags":["circumcisio","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2008",
-		"antiphona-ii":"/gregobase/antiphonae/2973",
-		"antiphona-iii":"/gregobase/antiphonae/1903",
-		"antiphona-iv":"/gregobase/antiphonae/2195",
-		"antiphona-v":"/gregobase/antiphonae/2234"
+		"antiphona-i":[["/antiphonae/2008"]],
+		"antiphona-ii":[["/antiphonae/2973"]],
+		"antiphona-iii":[["/antiphonae/1903"]],
+		"antiphona-iv":[["/antiphonae/2195"]],
+		"antiphona-v":[["/antiphonae/2234"]]
   },
   {
 		"tags":["circumcisio","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2010"
+		"datum":[["/antiphonae/2010"]]
   },
   {
 		"tags":["circumcisio","matutinum","nocturna-i","antiphona"],
@@ -31,10 +31,10 @@
   },
   {
 		"tags":["circumcisio","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13319"
+		"datum":[["/antiphonae/13319"]]
   },
   {
 		"tags":["circumcisio","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2916"
+		"datum":[["/antiphonae/2916"]]
   }
 ]

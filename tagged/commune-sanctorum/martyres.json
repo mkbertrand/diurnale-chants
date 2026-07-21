@@ -1,21 +1,21 @@
 [
   {
     "tags":["martyres","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/1821",
-		"antiphona-ii":"/gregobase/antiphonae/2338",
-		"antiphona-iii":"/gregobase/antiphonae/2746",
-		"antiphona-iv":"/gregobase/antiphonae/2051",
-		"antiphona-v":"/gregobase/antiphonae/1897"
+		"antiphona-i":[["/antiphonae/1821"]],
+		"antiphona-ii":[["/antiphonae/2338"]],
+		"antiphona-iii":[["/antiphonae/2746"]],
+		"antiphona-iv":[["/antiphonae/2051"]],
+		"antiphona-v":[["/antiphonae/1897"]]
   },
   {
 		"tags":["martyres","hymnus"],
-		"vesperae":"/gregobase/hymni/2571",
+		"vesperae":[["/hymni/2571"]],
     "datum":"/nocturnale/EXPMEXH_dcrochu",
-		"laudes":"/gregobase/hymni/2790"
+		"laudes":[["/hymni/2790"]]
   },
   {
 		"tags":["martyres","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2682"
+		"datum":[["/antiphonae/2682"]]
   },
   {
 		"tags":["martyres","matutinum","nocturna-i","antiphona"],
@@ -37,15 +37,15 @@
   },
   {
 		"tags":["martyres","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2177"
+		"datum":[["/antiphonae/2177"]]
   },
   {
     "tags":["martyres","ii-vesperae","antiphona"],
-    "antiphona-i":"/gregobase/antiphonae/2186",
-    "antiphona-ii":"/gregobase/antiphonae/2482",
-    "antiphona-iii":"/gregobase/antiphonae/2198",
-    "antiphona-iv":"/gregobase/antiphonae/2665",
-    "antiphona-v":"/gregobase/antiphonae/1886",
-    "antiphona-magnificat":"/gregobase/antiphonae/1958"
+    "antiphona-i":[["/antiphonae/2186"]],
+    "antiphona-ii":[["/antiphonae/2482"]],
+    "antiphona-iii":[["/antiphonae/2198"]],
+    "antiphona-iv":[["/antiphonae/2665"]],
+    "antiphona-v":[["/antiphonae/1886"]],
+    "antiphona-magnificat":[["/antiphonae/1958"]]
   }
 ]

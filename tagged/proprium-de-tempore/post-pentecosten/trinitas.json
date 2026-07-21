@@ -1,15 +1,15 @@
 [
   {
 		"tags":["trinitas","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2284",
-		"antiphona-ii":"/gregobase/antiphonae/2475",
-		"antiphona-iii":"/gregobase/antiphonae/2434",
-		"antiphona-iv":"/gregobase/antiphonae/2296",
-		"antiphona-v":"/gregobase/antiphonae/2650"
+		"antiphona-i":[["/antiphonae/2284"]],
+		"antiphona-ii":[["/antiphonae/2475"]],
+		"antiphona-iii":[["/antiphonae/2434"]],
+		"antiphona-iv":[["/antiphonae/2296"]],
+		"antiphona-v":[["/antiphonae/2650"]]
   },
   {
 		"tags":["trinitas","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2935"
+		"datum":[["/antiphonae/2935"]]
   },
   {
 		"tags":["trinitas","matutinum","antiphona","antiphona-invitatorium"],
@@ -18,7 +18,7 @@
   {
 		"tags":["trinitas","hymnus"],
 		"matutinum":"/nocturnale/H1H",
-		"laudes":"/gregobase/hymni/2878"
+		"laudes":[["/hymni/2878"]]
   },
   {
 		"tags":["trinitas","matutinum","nocturna-i","antiphona"],
@@ -40,10 +40,10 @@
   },
   {
 		"tags":["trinitas","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/19972"
+		"datum":[["/antiphonae/19972"]]
   },
   {
 		"tags":["trinitas","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2759"
+		"datum":[["/antiphonae/2759"]]
   }
 ]

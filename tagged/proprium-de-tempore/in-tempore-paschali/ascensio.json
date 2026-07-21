@@ -1,22 +1,22 @@
 [
   {
 		"tags":["ascensio","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/1888",
-		"antiphona-ii":"/gregobase/antiphonae/2651",
-		"antiphona-iii":"/gregobase/antiphonae/1971",
-		"antiphona-iv":"/gregobase/antiphonae/2072",
-		"antiphona-v":"/gregobase/antiphonae/2362"
+		"antiphona-i":[["/antiphonae/1888"]],
+		"antiphona-ii":[["/antiphonae/2651"]],
+		"antiphona-iii":[["/antiphonae/1971"]],
+		"antiphona-iv":[["/antiphonae/2072"]],
+		"antiphona-v":[["/antiphonae/2362"]]
   },
   {
 		"tags":[
 			["ascensio","vesperae","hymnus"],
 			["ascensio","laudes","hymnus"]
 		],
-		"datum":"/gregobase/hymni/2828"
+		"datum":[["/hymni/2828"]]
   },
   {
 		"tags":["ascensio","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2941"
+		"datum":[["/antiphonae/2941"]]
   },
   {
 		"tags":["ascensio","matutinum","antiphona","antiphona-invitatorium"],
@@ -46,11 +46,11 @@
   },
   {
 		"tags":["ascensio","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13029"
+		"datum":[["/antiphonae/13029"]]
   },
   {
 		"tags":["ascensio","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1916"
+		"datum":[["/antiphonae/1916"]]
   },
   {
 		"tags":[
@@ -58,13 +58,13 @@
 			["ascensio","dominica-infra-octavam","laudes","antiphona","antiphona-benedictus"],
 			["ascensio","post-ascensionem","laudes","antiphona","antiphona-benedictus"]
 		],
-		"datum":"/gregobase/antiphonae/1850"
+		"datum":[["/antiphonae/1850"]]
   },
   {
 		"tags":[
 			["ascensio","dominica-infra-octavam","ii-vesperae","antiphona","antiphona-magnificat"],
 			["ascensio","post-ascensionem","ii-vesperae","antiphona","antiphona-magnificat"]
 		],
-		"datum":"/gregobase/antiphonae/1981"
+		"datum":[["/antiphonae/1981"]]
   }
 ]

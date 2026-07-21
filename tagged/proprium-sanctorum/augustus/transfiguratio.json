@@ -1,22 +1,22 @@
 [
   {
 		"tags":["transfiguratio","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2500",
-		"antiphona-ii":"/gregobase/antiphonae/2687",
-		"antiphona-iii":"/gregobase/antiphonae/2347",
-		"antiphona-iv":"/gregobase/antiphonae/2455",
-		"antiphona-v":"/gregobase/antiphonae/2487"
+		"antiphona-i":[["/antiphonae/2500"]],
+		"antiphona-ii":[["/antiphonae/2687"]],
+		"antiphona-iii":[["/antiphonae/2347"]],
+		"antiphona-iv":[["/antiphonae/2455"]],
+		"antiphona-v":[["/antiphonae/2487"]]
   },
   {
 		"tags":[
 			["transfiguratio","vesperae","hymnus"],
 			["transfiguratio","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/hymni/2309"
+		"datum":[["/hymni/2309"]]
   },
   {
 		"tags":["transfiguratio","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2357"
+		"datum":[["/antiphonae/2357"]]
   },
   {
 		"tags":["transfiguratio","matutinum","antiphona","antiphona-invitatorium"],
@@ -41,14 +41,14 @@
   },
   {
 		"tags":["transfiguratio","laudes","hymnus"],
-		"datum":"/gregobase/hymni/13070"
+		"datum":[["/hymni/13070"]]
   },
   {
 		"tags":["transfiguratio","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13061"
+		"datum":[["/antiphonae/13061"]]
   },
   {
 		"tags":["transfiguratio","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2577"
+		"datum":[["/antiphonae/2577"]]
   }
 ]

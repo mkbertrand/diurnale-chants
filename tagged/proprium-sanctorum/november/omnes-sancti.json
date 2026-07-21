@@ -1,22 +1,22 @@
 [
   {
 		"tags":["omnes-sancti","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2883",
-		"antiphona-ii":"/gregobase/antiphonae/2634",
-		"antiphona-iii":"/gregobase/antiphonae/1999",
-		"antiphona-iv":"/gregobase/antiphonae/2109",
-		"antiphona-v":"/gregobase/antiphonae/2328"
+		"antiphona-i":[["/antiphonae/2883"]],
+		"antiphona-ii":[["/antiphonae/2634"]],
+		"antiphona-iii":[["/antiphonae/1999"]],
+		"antiphona-iv":[["/antiphonae/2109"]],
+		"antiphona-v":[["/antiphonae/2328"]]
   },
   {
 		"tags":[
 			["omnes-sancti","vesperae","hymnus"],
 			["omnes-sancti","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/hymni/2829"
+		"datum":[["/hymni/2829"]]
   },
   {
 		"tags":["omnes-sancti","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1991"
+		"datum":[["/antiphonae/1991"]]
   },
   {
 		"tags":["omnes-sancti","matutinum","antiphona","antiphona-invitatorium"],
@@ -42,14 +42,14 @@
   },
   {
 		"tags":["omnes-sancti","laudes","hymnus"],
-		"datum":"/gregobase/hymni/2520"
+		"datum":[["/hymni/2520"]]
   },
   {
 		"tags":["omnes-sancti","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2233"
+		"datum":[["/antiphonae/2233"]]
   },
   {
 		"tags":["omnes-sancti","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2216"
+		"datum":[["/antiphonae/2216"]]
   }
 ]

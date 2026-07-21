@@ -1,15 +1,15 @@
 [
   {
 		"tags":["nativitas-bmv","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2062",
-		"antiphona-ii":"/gregobase/antiphonae/2862",
-		"antiphona-iii":"/gregobase/antiphonae/2748",
-		"antiphona-iv":"/gregobase/antiphonae/2154",
-		"antiphona-v":"/gregobase/antiphonae/1835"
+		"antiphona-i":[["/antiphonae/2062"]],
+		"antiphona-ii":[["/antiphonae/2862"]],
+		"antiphona-iii":[["/antiphonae/2748"]],
+		"antiphona-iv":[["/antiphonae/2154"]],
+		"antiphona-v":[["/antiphonae/1835"]]
   },
   {
 		"tags":["nativitas-bmv","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2956"
+		"datum":[["/antiphonae/2956"]]
   },
   {
 		"tags":["nativitas-bmv","matutinum","antiphona","antiphona-invitatorium"],
@@ -17,10 +17,10 @@
   },
   {
 		"tags":["nativitas-bmv","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13064"
+		"datum":[["/antiphonae/13064"]]
   },
   {
 		"tags":["nativitas-bmv","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1985"
+		"datum":[["/antiphonae/1985"]]
   }
 ]

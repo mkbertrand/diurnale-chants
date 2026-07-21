@@ -4,46 +4,46 @@
 			["hebdomada-iii-paschae","dominica","i-vesperae","antiphona","antiphona-magnificat"],
 			["hebdomada-iii-paschae","dominica","laudes","antiphona","antiphona-benedictus"]
 		],
-		"datum":"/gregobase/antiphonae/2206"
+		"datum":[["/antiphonae/2206"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","dominica","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/19819"
+		"datum":[["/antiphonae/19819"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","feria-ii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12489"
+		"datum":[["/antiphonae/12489"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","feria-ii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/12301"
+		"datum":[["/antiphonae/12301"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","feria-iii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12726"
+		"datum":[["/antiphonae/12726"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","feria-iii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/12906"
+		"datum":[["/antiphonae/12906"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","feria-iv","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13284"
+		"datum":[["/antiphonae/13284"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","feria-iv","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/12164"
+		"datum":[["/antiphonae/12164"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","feria-v","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13087"
+		"datum":[["/antiphonae/13087"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","feria-v","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/12776"
+		"datum":[["/antiphonae/12776"]]
   },
   {
 		"tags":["hebdomada-iii-paschae","feria-vi","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/11845"
+		"datum":[["/antiphonae/11845"]]
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
 		"tags":["apparitio-michaelis","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2648",
-		"antiphona-ii":"/gregobase/antiphonae/1868",
-		"antiphona-iii":"/gregobase/antiphonae/2245",
-		"antiphona-iv":"/gregobase/antiphonae/2074",
-		"antiphona-v":"/gregobase/antiphonae/2791"
+		"antiphona-i":[["/antiphonae/2648"]],
+		"antiphona-ii":[["/antiphonae/1868"]],
+		"antiphona-iii":[["/antiphonae/2245"]],
+		"antiphona-iv":[["/antiphonae/2074"]],
+		"antiphona-v":[["/antiphonae/2791"]]
   },
   {
 		"tags":[
 			["apparitio-michaelis","vesperae","hymnus"],
 			["apparitio-michaelis","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/hymni/19939"
+		"datum":[["/hymni/19939"]]
   },
   {
 		"tags":["apparitio-michaelis","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2640"
+		"datum":[["/antiphonae/2640"]]
   },
   {
 		"tags":["apparitio-michaelis","matutinum","antiphona","antiphona-invitatorium"],
@@ -36,14 +36,14 @@
   },
   {
 		"tags":["apparitio-michaelis","laudes","hymnus"],
-		"datum":"/gregobase/hymni/12915"
+		"datum":[["/hymni/12915"]]
   },
   {
 		"tags":["apparitio-michaelis","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/11856"
+		"datum":[["/antiphonae/11856"]]
   },
   {
 		"tags":["apparitio-michaelis","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2625"
+		"datum":[["/antiphonae/2625"]]
   }
 ]

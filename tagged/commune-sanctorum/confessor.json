@@ -1,22 +1,22 @@
 [
   {
     "tags":["confessor","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2080",
-		"antiphona-ii":"/gregobase/antiphonae/2179",
-		"antiphona-iii":"/gregobase/antiphonae/2570",
-		"antiphona-iv":"/gregobase/antiphonae/2182",
-		"antiphona-v":"/gregobase/antiphonae/2677"
+		"antiphona-i":[["/antiphonae/2080"]],
+		"antiphona-ii":[["/antiphonae/2179"]],
+		"antiphona-iii":[["/antiphonae/2570"]],
+		"antiphona-iv":[["/antiphonae/2182"]],
+		"antiphona-v":[["/antiphonae/2677"]]
   },
   {
 		"tags":[
 			["confessor","vesperae","hymnus"],
 			["confessor","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/hymni/2407"
+		"datum":[["/hymni/2407"]]
   },
   {
 		"tags":["confessor","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2586"
+		"datum":[["/antiphonae/2586"]]
   },
   {
 		"tags":["confessor","matutinum","antiphona","antiphona-invitatorium"],
@@ -48,14 +48,14 @@
   },
   {
 		"tags":["confessor","laudes","hymnus"],
-		"datum":"/gregobase/hymni/17926"
+		"datum":[["/hymni/17926"]]
   },
   {
 		"tags":["confessor","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2808"
+		"datum":[["/antiphonae/2808"]]
   },
   {
 		"tags":["confessor","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2251"
+		"datum":[["/antiphonae/2251"]]
   }
 ]

@@ -1,21 +1,21 @@
 [
   {
 		"tags":["septem-dolores-passione","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2961",
-		"antiphona-ii":"/gregobase/antiphonae/2131",
-		"antiphona-iii":"/gregobase/antiphonae/2852",
-		"antiphona-iv":"/gregobase/antiphonae/2774",
-		"antiphona-v":"/gregobase/antiphonae/2900"
+		"antiphona-i":[["/antiphonae/2961"]],
+		"antiphona-ii":[["/antiphonae/2131"]],
+		"antiphona-iii":[["/antiphonae/2852"]],
+		"antiphona-iv":[["/antiphonae/2774"]],
+		"antiphona-v":[["/antiphonae/2900"]]
   },
   {
     "tags":["septem-dolores-passione","hymnus"],
-		"vesperae":"/gregobase/hymni/2163",
+		"vesperae":[["/hymni/2163"]],
 		"matutinum":"/nocturnale/Q5F6H",
-		"laudes":"/gregobase/hymni/12383"
+		"laudes":[["/hymni/12383"]]
   },
   {
 		"tags":["septem-dolores-passione","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2559"
+		"datum":[["/antiphonae/2559"]]
   },
   {
 		"tags":["septem-dolores-passione","matutinum","antiphona","antiphona-invitatorium"],
@@ -50,6 +50,6 @@
 			["septem-dolores-passione","laudes","antiphona","antiphona-benedictus"],
 			["septem-dolores-passione","ii-vesperae","antiphona","antiphona-magnificat"]
 		],
-		"datum":"/gregobase/antiphonae/2927"
+		"datum":[["/antiphonae/2927"]]
   }
 ]

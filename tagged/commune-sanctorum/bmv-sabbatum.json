@@ -1,15 +1,15 @@
 [
   {
 		"tags":["bmv-sabbatum","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1902",
-		"post-nativitatem":"/gregobase/antiphonae/2916"
+		"datum":[["/antiphonae/1902"]],
+		"post-nativitatem":[["/antiphonae/2916"]]
   },
   {
 		"tags":[
 			["bmv-sabbatum","i-vesperae","antiphona","antiphona-magnificat","in-tempore-paschali"],
 			["bmv-sabbatum","laudes","antiphona","antiphona-benedictus","in-tempore-paschali"]
 		],
-		"datum":"/gregobase/antiphonae/14963"
+		"datum":[["/antiphonae/14963"]]
   },
   {
 		"tags":["bmv-sabbatum","matutinum","antiphona","antiphona-invitatorium"],
@@ -17,6 +17,6 @@
   },
   {
 		"tags":["bmv-sabbatum","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/19326"
+		"datum":[["/antiphonae/19326"]]
   }
 ]

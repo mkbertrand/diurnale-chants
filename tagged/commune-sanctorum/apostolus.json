@@ -4,7 +4,7 @@
 			["apostolus","vesperae","hymnus"],
 			["apostolus","laudes","hymnus"]
 		],
-		"datum":"/gregobase/hymni/2194"
+		"datum":[["/hymni/2194"]]
   },
   {
 		"tags":["apostolus","matutinum","hymnus"],
@@ -12,15 +12,15 @@
   },
   {
 		"tags":["apostolus","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2300",
-		"antiphona-ii":"/gregobase/antiphonae/2104",
-		"antiphona-iii":"/gregobase/antiphonae/2202",
-		"antiphona-iv":"/gregobase/antiphonae/1893",
-		"antiphona-v":"/gregobase/antiphonae/2594"
+		"antiphona-i":[["/antiphonae/2300"]],
+		"antiphona-ii":[["/antiphonae/2104"]],
+		"antiphona-iii":[["/antiphonae/2202"]],
+		"antiphona-iv":[["/antiphonae/1893"]],
+		"antiphona-v":[["/antiphonae/2594"]]
   },
   {
 		"tags":["apostolus","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2112"
+		"datum":[["/antiphonae/2112"]]
   },
   {
 		"tags":["apostolus","matutinum","antiphona","antiphona-invitatorium"],
@@ -47,23 +47,23 @@
   },
   {
 		"tags":["apostolus","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12597"
+		"datum":[["/antiphonae/12597"]]
   },
   {
 		"tags":["apostolus","ii-vesperae","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/1973",
-		"antiphona-ii":"/gregobase/antiphonae/2751",
-		"antiphona-iii":"/gregobase/antiphonae/1861",
-		"antiphona-iv":"/gregobase/antiphonae/2337",
-		"antiphona-v":"/gregobase/antiphonae/2079",
-		"antiphona-magnificat":"/gregobase/antiphonae/1915"
+		"antiphona-i":[["/antiphonae/1973"]],
+		"antiphona-ii":[["/antiphonae/2751"]],
+		"antiphona-iii":[["/antiphonae/1861"]],
+		"antiphona-iv":[["/antiphonae/2337"]],
+		"antiphona-v":[["/antiphonae/2079"]],
+		"antiphona-magnificat":[["/antiphonae/1915"]]
   },
   {
 		"tags":[
 			["apostolorum-tempore-paschali","vesperae","hymnus"],
 			["apostolorum-tempore-paschali","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/hymni/2295"
+		"datum":[["/hymni/2295"]]
   },
   {
 		"tags":["apostolorum-tempore-paschali","matutinum","antiphona","antiphona-invitatorium"],
@@ -71,6 +71,6 @@
   },
   {
 		"tags":["apostolorum-tempore-paschali","laudes","hymnus"],
-		"datum":"/gregobase/hymni/11809"
+		"datum":[["/hymni/11809"]]
   }
 ]

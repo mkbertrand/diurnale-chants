@@ -1,19 +1,19 @@
 [
   {
 		"tags":["rosarium-bmv","vesperae","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2921",
-		"antiphona-ii":"/gregobase/antiphonae/2193",
-		"antiphona-iii":"/gregobase/antiphonae/2844",
-		"antiphona-iv":"/gregobase/antiphonae/2312",
-		"antiphona-v":"/gregobase/antiphonae/2701"
+		"antiphona-i":[["/antiphonae/2921"]],
+		"antiphona-ii":[["/antiphonae/2193"]],
+		"antiphona-iii":[["/antiphonae/2844"]],
+		"antiphona-iv":[["/antiphonae/2312"]],
+		"antiphona-v":[["/antiphonae/2701"]]
   },
   {
 		"tags":["rosarium-bmv","hymnus"],
-		"i-vesperae":"/gregobase/hymni/2615"
+		"i-vesperae":[["/hymni/2615"]]
   },
   {
 		"tags":["rosarium-bmv","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2960"
+		"datum":[["/antiphonae/2960"]]
   },
   {
 		"tags":["rosarium-bmv","matutinum","antiphona","antiphona-invitatorium"],
@@ -43,26 +43,26 @@
   },
   {
 		"tags":["rosarium-bmv","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/20110",
-		"antiphona-ii":"/gregobase/antiphonae/20111",
-		"antiphona-iii":"/gregobase/antiphonae/20108",
-		"antiphona-iv":"/gregobase/antiphonae/13000",
-		"antiphona-v":"/gregobase/antiphonae/20109"
+		"antiphona-i":[["/antiphonae/20110"]],
+		"antiphona-ii":[["/antiphonae/20111"]],
+		"antiphona-iii":[["/antiphonae/20108"]],
+		"antiphona-iv":[["/antiphonae/13000"]],
+		"antiphona-v":[["/antiphonae/20109"]]
   },
   {
 		"tags":["rosarium-bmv","hymnus"],
-		"laudes":"/gregobase/hymni/12800"
+		"laudes":[["/hymni/12800"]]
   },
   {
 		"tags":["rosarium-bmv","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13287"
+		"datum":[["/antiphonae/13287"]]
   },
   {
 		"tags":["rosarium-bmv","hymnus"],
-		"ii-vesperae":"/gregobase/hymni/2698"
+		"ii-vesperae":[["/hymni/2698"]]
   },
   {
 		"tags":["rosarium-bmv","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1871"
+		"datum":[["/antiphonae/1871"]]
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
 		"tags":["deus-in-adjutorium"],
-		"ferialis":"/gregobase/etc/15354",
-		"festalis":"/gregobase/etc/7417",
-		"solemnis":"/gregobase/etc/7402"
+		"ferialis":[["/etc/15354"]],
+		"festalis":[["/etc/7417"]],
+		"solemnis":[["/etc/7402"]]
   },
   {
 		"tags":["sollemnitas","benedicamus-domino"],
-		"i-vesperae":"/gregobase/etc/4567",
-		"laudes":"/gregobase/etc/10336",
-		"ii-vesperae":"/gregobase/etc/4568"
+		"i-vesperae":[["/etc/4567"]],
+		"laudes":[["/etc/10336"]],
+		"ii-vesperae":[["/etc/4568"]]
   },
   {
 		"tags":["sollemnitas","ii-vesperae","benedicamus-domino","modus-quintus"],
-		"datum":"/gregobase/etc/7522"
+		"datum":[["/etc/7522"]]
   },
   {
 		"tags":["duplex-minus","benedicamus-domino"],
-		"i-vesperae":"/gregobase/etc/7866",
-		"laudes":"/gregobase/etc/10336",
-		"ii-vesperae":"/gregobase/etc/8245"
+		"i-vesperae":[["/etc/7866"]],
+		"laudes":[["/etc/10336"]],
+		"ii-vesperae":[["/etc/8245"]]
   },
   {
 		"tags":[
 			["semiduplex","dominica","vesperae","benedicamus-domino"],
 			["semiduplex","dominica","laudes","benedicamus-domino"]
 		],
-		"datum":"/gregobase/etc/16976"
+		"datum":[["/etc/16976"]]
   },
   {
 		"tags":[
@@ -37,51 +37,51 @@
 			["semiduplex","dominica","in-tempore-passionis","vesperae","benedicamus-domino"],
 			["semiduplex","dominica","in-tempore-passionis","laudes","benedicamus-domino"]
 		],
-		"datum":"/gregobase/etc/9841"
+		"datum":[["/etc/9841"]]
   },
   {
 		"tags":[
 			["dominica","in-tempore-paschali","vesperae","benedicamus-domino"],
 			["dominica","in-tempore-paschali","laudes","benedicamus-domino"]
 		],
-		"datum":"/gregobase/etc/8121"
+		"datum":[["/etc/8121"]]
   },
   {
 		"tags":["semiduplex","benedicamus-domino"],
-		"laudes":"/gregobase/etc/10172",
-		"vesperae":"/gregobase/etc/15698"
+		"laudes":[["/etc/10172"]],
+		"vesperae":[["/etc/15698"]]
   },
   {
 		"tags":[
 			["maria","vesperae","benedicamus-domino"],
 			["maria","laudes","benedicamus-domino"]
 		],
-		"datum":"/gregobase/etc/10399"
+		"datum":[["/etc/10399"]]
   },
   {
 		"tags":[
 			["simplex","vesperae","benedicamus-domino"],
 			["simplex","laudes","benedicamus-domino"]
 		],
-		"datum":"/gregobase/etc/15743"
+		"datum":[["/etc/15743"]]
   },
   {
 		"tags":[
 			["bmv-sabbatum","maria","vesperae","benedicamus-domino"],
 			["bmv-sabbatum","maria","laudes","benedicamus-domino"]
 		],
-		"datum":"/gregobase/etc/17674"
+		"datum":[["/etc/17674"]]
   },
   {
 		"tags":[
 			["feria","vesperae","benedicamus-domino"],
 			["feria","laudes","benedicamus-domino"]
 		],
-		"datum":"/gregobase/etc/15741"
+		"datum":[["/etc/15741"]]
   },
   {
 		"tags":["hora-minor","benedicamus-domino"],
-		"datum":"/gregobase/etc/18844"
+		"datum":[["/etc/18844"]]
   },
   {
 		"tags":[
@@ -89,7 +89,7 @@
 			["pascha","vesperae","benedicamus-domino"],
 			["pascha","laudes","benedicamus-domino"]
 		],
-		"datum":"/gregobase/etc/19811",
-		"duplex-i-classis":"/gregobase/etc/19812"
+		"datum":[["/etc/19811"]],
+		"duplex-i-classis":[["/etc/19812"]]
   }
 ]

@@ -4,7 +4,7 @@
 			["innocentes","i-vesperae","antiphona","antiphona-magnificat"],
 			["innocentes","laudes","antiphona","antiphona-benedictus"]
 		],
-		"datum":"/gregobase/antiphonae/2548"
+		"datum":[["/antiphonae/2548"]]
   },
   {
 		"tags":["innocentes","matutinum","nocturna-iii","antiphona","antiphona-ii"],
@@ -12,14 +12,14 @@
   },
   {
 		"tags":["innocentes","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2449",
-		"antiphona-ii":"/gregobase/antiphonae/1879",
-		"antiphona-iii":"/gregobase/antiphonae/2703",
-		"antiphona-iv":"/gregobase/antiphonae/12471",
-		"antiphona-v":"/gregobase/antiphonae/2939"
+		"antiphona-i":[["/antiphonae/2449"]],
+		"antiphona-ii":[["/antiphonae/1879"]],
+		"antiphona-iii":[["/antiphonae/2703"]],
+		"antiphona-iv":[["/antiphonae/12471"]],
+		"antiphona-v":[["/antiphonae/2939"]]
   },
   {
 		"tags":["innocentes","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2833"
+		"datum":[["/antiphonae/2833"]]
   }
 ]

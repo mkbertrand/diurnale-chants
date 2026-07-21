@@ -8,13 +8,13 @@
 	},
   {
 		"tags":["completorium","antiphona"],
-		"datum":"/gregobase/antiphonae/1896",
-		"in-tempore-paschali":"/gregobase/antiphonae/1942"
+		"datum":[["/antiphonae/1896"]],
+		"in-tempore-paschali":[["/antiphonae/1942"]]
   },
   {
 		"tags":["completorium","antiphona","antiphona-nunc-dimittis"],
-		"datum":"/gregobase/antiphonae/2924",
-		"in-tempore-paschali":"/gregobase/antiphonae/2924"
+		"datum":[["/antiphonae/2924"]],
+		"in-tempore-paschali":[["/antiphonae/2924"]]
   },
 	{
 		"tags":[

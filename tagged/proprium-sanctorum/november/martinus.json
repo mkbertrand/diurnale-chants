@@ -1,18 +1,18 @@
 [
   {
 		"tags":["martinus","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2785",
-		"antiphona-ii":"/gregobase/antiphonae/2585",
-		"antiphona-iii":"/gregobase/antiphonae/2968",
-		"antiphona-iv":"/gregobase/antiphonae/2155",
-		"antiphona-v":"/gregobase/antiphonae/2192"
+		"antiphona-i":[["/antiphonae/2785"]],
+		"antiphona-ii":[["/antiphonae/2585"]],
+		"antiphona-iii":[["/antiphonae/2968"]],
+		"antiphona-iv":[["/antiphonae/2155"]],
+		"antiphona-v":[["/antiphonae/2192"]]
   },
   {
 		"tags":[
 			["martinus","i-vesperae","antiphona","antiphona-magnificat"],
 			["martinus","laudes","antiphona","antiphona-benedictus"]
 		],
-		"datum":"/gregobase/antiphonae/2887"
+		"datum":[["/antiphonae/2887"]]
   },
   {
 		"tags":["martinus","matutinum","antiphona","antiphona-invitatorium"],
@@ -38,6 +38,6 @@
   },
   {
 		"tags":["martinus","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2378"
+		"datum":[["/antiphonae/2378"]]
   }
 ]

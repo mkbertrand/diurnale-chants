@@ -1,12 +1,12 @@
 [
   {
 		"tags":["nativitas","i-vesperae","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2996",
-		"antiphona-ii":"/gregobase/antiphonae/3011",
-		"antiphona-iii":"/gregobase/antiphonae/2997",
-		"antiphona-iv":"/gregobase/antiphonae/3005",
-		"antiphona-v":"/gregobase/antiphonae/3006",
-		"antiphona-magnificat": "/gregobase/antiphonae/3002"
+		"antiphona-i":[["/antiphonae/2996"]],
+		"antiphona-ii":[["/antiphonae/3011"]],
+		"antiphona-iii":[["/antiphonae/2997"]],
+		"antiphona-iv":[["/antiphonae/3005"]],
+		"antiphona-v":[["/antiphonae/3006"]],
+		"antiphona-magnificat": [["/antiphonae/3002"]]
   },
   {
 		"tags":["nativitas","matutinum","antiphona","antiphona-invitatorium"],
@@ -32,34 +32,34 @@
   },
   {
 		"tags":["nativitas","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2204",
-		"antiphona-ii":"/gregobase/antiphonae/2653",
-		"antiphona-iii":"/gregobase/antiphonae/2421",
-		"antiphona-iv":"/gregobase/antiphonae/2840",
-		"antiphona-v":"/gregobase/antiphonae/2913"
+		"antiphona-i":[["/antiphonae/2204"]],
+		"antiphona-ii":[["/antiphonae/2653"]],
+		"antiphona-iii":[["/antiphonae/2421"]],
+		"antiphona-iv":[["/antiphonae/2840"]],
+		"antiphona-v":[["/antiphonae/2913"]]
   },
   {
 		"tags":["nativitas","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2782"
+		"datum":[["/antiphonae/2782"]]
   },
   {
 		"tags":["nativitas","ii-vesperae","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2728",
-		"antiphona-ii":"/gregobase/antiphonae/2736",
-		"antiphona-iii":"/gregobase/antiphonae/2058",
-		"antiphona-iv":"/gregobase/antiphonae/2277",
-		"antiphona-v":"/gregobase/antiphonae/2766",
-		"antiphona-magnificat":"/gregobase/antiphonae/2486"
+		"antiphona-i":[["/antiphonae/2728"]],
+		"antiphona-ii":[["/antiphonae/2736"]],
+		"antiphona-iii":[["/antiphonae/2058"]],
+		"antiphona-iv":[["/antiphonae/2277"]],
+		"antiphona-v":[["/antiphonae/2766"]],
+		"antiphona-magnificat":[["/antiphonae/2486"]]
   },
   {
 		"tags":[
 			["nativitas","dominica-infra-octavam","i-vesperae","antiphona","antiphona-magnificat"],
 			["nativitas","dominica-infra-octavam","laudes","antiphona","antiphona-benedictus"]
 		],
-		"datum":"/gregobase/antiphonae/2544"
+		"datum":[["/antiphonae/2544"]]
   },
   {
 		"tags":["nativitas","dominica-infra-octavam","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2178"
+		"datum":[["/antiphonae/2178"]]
   }
 ]

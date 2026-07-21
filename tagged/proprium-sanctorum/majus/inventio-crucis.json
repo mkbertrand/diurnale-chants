@@ -1,19 +1,19 @@
 [
   {
 		"tags":["inventio-crucis","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2164",
-		"antiphona-ii":"/gregobase/antiphonae/2529",
-		"antiphona-iii":"/gregobase/antiphonae/2623",
-		"antiphona-iv":"/gregobase/antiphonae/2945",
-		"antiphona-v":"/gregobase/antiphonae/2868"
+		"antiphona-i":[["/antiphonae/2164"]],
+		"antiphona-ii":[["/antiphonae/2529"]],
+		"antiphona-iii":[["/antiphonae/2623"]],
+		"antiphona-iv":[["/antiphonae/2945"]],
+		"antiphona-v":[["/antiphonae/2868"]]
   },
   {
 		"tags":["inventio-crucis","vesperae","hymnus"],
-		"datum":"/gregobase/hymni/12999"
+		"datum":[["/hymni/12999"]]
   },
   {
 		"tags":["inventio-crucis","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1907"
+		"datum":[["/antiphonae/1907"]]
   },
   {
 		"tags":["inventio-crucis","matutinum","antiphona","antiphona-invitatorium"],
@@ -42,10 +42,10 @@
   },
   {
 		"tags":["inventio-crucis","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13034"
+		"datum":[["/antiphonae/13034"]]
   },
   {
 		"tags":["inventio-crucis","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2884"
+		"datum":[["/antiphonae/2884"]]
   }
 ]

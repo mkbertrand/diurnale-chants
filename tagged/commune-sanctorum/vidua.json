@@ -1,19 +1,19 @@
 [
   {
     "tags":["vidua","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2000",
-		"antiphona-ii":"/gregobase/antiphonae/2963",
-		"antiphona-iii":"/gregobase/antiphonae/2056",
-		"antiphona-iv":"/gregobase/antiphonae/2115",
-		"antiphona-v":"/gregobase/antiphonae/2474"
+		"antiphona-i":[["/antiphonae/2000"]],
+		"antiphona-ii":[["/antiphonae/2963"]],
+		"antiphona-iii":[["/antiphonae/2056"]],
+		"antiphona-iv":[["/antiphonae/2115"]],
+		"antiphona-v":[["/antiphonae/2474"]]
   },
   {
 		"tags":["vidua","hymnus"],
-		"datum":"/gregobase/hymni/2492"
+		"datum":[["/hymni/2492"]]
   },
   {
 		"tags":["vidua","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/18848"
+		"datum":[["/antiphonae/18848"]]
   },
   {
 		"tags":["vidua","matutinum","antiphona","antiphona-invitatorium"],
@@ -47,10 +47,10 @@
   },
   {
 		"tags":["vidua","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2681"
+		"datum":[["/antiphonae/2681"]]
   },
   {
 		"tags":["vidua","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2275"
+		"datum":[["/antiphonae/2275"]]
   }
 ]

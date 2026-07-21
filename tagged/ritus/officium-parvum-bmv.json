@@ -7,11 +7,11 @@
 			["officium-parvum-bmv","sexta","hymnus"],
 			["officium-parvum-bmv","nona","hymnus"]
 		],
-		"datum":"/gregobase/hymni/18845"
+		"datum":[["/hymni/18845"]]
   },
   {
 		"tags":["officium-parvum-bmv","completorium","antiphona","antiphona-nunc-dimittis"],
-		"datum":"/gregobase/antiphonae/18315"
+		"datum":[["/antiphonae/18315"]]
   },
   {
 		"tags":[
@@ -19,6 +19,6 @@
 			["officium-parvum-bmv","in-tempore-adventus","completorium","antiphona","antiphona-nunc-dimittis"],
 			["officium-parvum-bmv","in-tempore-adventus","laudes","antiphona","antiphona-benedictus"]
 		],
-		"datum":"/gregobase/antiphonae/12304"
+		"datum":[["/antiphonae/12304"]]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
 		"tags":["cathedra-petri","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2717"
+		"datum":[["/antiphonae/2717"]]
   },
   {
 		"tags":[
 			["cathedra-petri","vesperae","hymnus"],
 			["cathedra-petri","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/hymni/8160"
+		"datum":[["/hymni/8160"]]
   },
   {
 		"tags":["cathedra-petri","matutinum","antiphona","antiphona-invitatorium"],
@@ -16,6 +16,6 @@
   },
   {
 		"tags":["cathedra-petri","laudes","hymnus"],
-		"datum":"/gregobase/hymni/13301"
+		"datum":[["/hymni/13301"]]
   }
 ]

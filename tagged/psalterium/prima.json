@@ -8,20 +8,20 @@
 	},
   {
 		"tags":["prima","dominica","per-annum","antiphona"],
-		"datum":"/gregobase/antiphonae/19869"
+		"datum":[["/antiphonae/19869"]]
   },
   {
 		"tags":["prima","feria","antiphona"],
-		"datum":"/gregobase/antiphonae/11135"
+		"datum":[["/antiphonae/11135"]]
   },
   {
 		"tags":["prima","feria","antiphona"],
-		"in-tempore-quadragesimae":"/gregobase/antiphonae/12733",
-		"in-tempore-passionis":"/gregobase/antiphonae/12847"
+		"in-tempore-quadragesimae":[["/antiphonae/12733"]],
+		"in-tempore-passionis":[["/antiphonae/12847"]]
   },
   {
 		"tags":["prima","temporale","antiphona"],
-		"in-tempore-paschali":"/gregobase/antiphonae/18552"
+		"in-tempore-paschali":[["/antiphonae/18552"]]
   },
 	{
 		"tags":[

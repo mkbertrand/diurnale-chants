@@ -1,19 +1,19 @@
 [
   {
 		"tags":["nativitas-joannis-baptistae","i-vesperae","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2603",
-		"antiphona-ii":"/gregobase/antiphonae/2457",
-		"antiphona-iii":"/gregobase/antiphonae/2490",
-		"antiphona-iv":"/gregobase/antiphonae/2130",
-		"antiphona-v":"/gregobase/antiphonae/2480"
+		"antiphona-i":[["/antiphonae/2603"]],
+		"antiphona-ii":[["/antiphonae/2457"]],
+		"antiphona-iii":[["/antiphonae/2490"]],
+		"antiphona-iv":[["/antiphonae/2130"]],
+		"antiphona-v":[["/antiphonae/2480"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","hymnus"],
-		"vesperae":"/gregobase/hymni/2539"
+		"vesperae":[["/hymni/2539"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2911"
+		"datum":[["/antiphonae/2911"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","matutinum","antiphona","antiphona-invitatorium"],
@@ -43,22 +43,22 @@
   },
   {
 		"tags":["nativitas-joannis-baptistae","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/1990",
-		"antiphona-ii":"/gregobase/antiphonae/2867",
-		"antiphona-iii":"/gregobase/antiphonae/1829",
-		"antiphona-iv":"/gregobase/antiphonae/2031",
-		"antiphona-v":"/gregobase/antiphonae/2352"
+		"antiphona-i":[["/antiphonae/1990"]],
+		"antiphona-ii":[["/antiphonae/2867"]],
+		"antiphona-iii":[["/antiphonae/1829"]],
+		"antiphona-iv":[["/antiphonae/2031"]],
+		"antiphona-v":[["/antiphonae/2352"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","hymnus"],
-		"laudes":"/gregobase/hymni/1978"
+		"laudes":[["/hymni/1978"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2575"
+		"datum":[["/antiphonae/2575"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2106"
+		"datum":[["/antiphonae/2106"]]
   }
 ]

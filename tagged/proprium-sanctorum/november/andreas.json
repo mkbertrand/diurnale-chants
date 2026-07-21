@@ -1,15 +1,15 @@
 [
   {
 		"tags":["andreas","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2880",
-		"antiphona-ii":"/gregobase/antiphonae/1822",
-		"antiphona-iii":"/gregobase/antiphonae/2838",
-		"antiphona-iv":"/gregobase/antiphonae/2537",
-		"antiphona-v":"/gregobase/antiphonae/2336"
+		"antiphona-i":[["/antiphonae/2880"]],
+		"antiphona-ii":[["/antiphonae/1822"]],
+		"antiphona-iii":[["/antiphonae/2838"]],
+		"antiphona-iv":[["/antiphonae/2537"]],
+		"antiphona-v":[["/antiphonae/2336"]]
   },
   {
 		"tags":["andreas","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/1961"
+		"datum":[["/antiphonae/1961"]]
   },
   {
 		"tags":["andreas","matutinum","nocturna-i","antiphona"],
@@ -31,10 +31,10 @@
   },
   {
 		"tags":["andreas","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12195"
+		"datum":[["/antiphonae/12195"]]
   },
   {
 		"tags":["andreas","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2576"
+		"datum":[["/antiphonae/2576"]]
   }
 ]

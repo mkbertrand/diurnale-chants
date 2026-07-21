@@ -1,7 +1,7 @@
 [
   {
 		"tags":["hebdomada-i-adventus","dominica","i-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2875"
+		"datum":[["/antiphonae/2875"]]
   },
   {
 		"tags":[
@@ -9,7 +9,7 @@
 			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-i"],
 			["hebdomada-i-adventus","prima","antiphona","antiphona-i"]
 		],
-		"datum":"/gregobase/antiphonae/2835"
+		"datum":[["/antiphonae/2835"]]
   },
   {
 		"tags":[
@@ -17,7 +17,7 @@
 			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-ii"],
 			["hebdomada-i-adventus","tertia","antiphona","antiphona-ii"]
 		],
-		"datum":"/gregobase/antiphonae/2392"
+		"datum":[["/antiphonae/2392"]]
   },
 	{
 		"tags":[
@@ -25,14 +25,14 @@
 			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-iii"],
 			["hebdomada-i-adventus","sexta","antiphona","antiphona-iii"]
 		],
-		"datum":"/gregobase/antiphonae/2289"
+		"datum":[["/antiphonae/2289"]]
   },
 	{
 		"tags":[
 			["hebdomada-i-adventus","dominica","laudes","antiphona","antiphona-iv"],
 			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-iv"]
 		],
-		"datum":"/gregobase/antiphonae/1876"
+		"datum":[["/antiphonae/1876"]]
   },
 	{
 		"tags":[
@@ -40,58 +40,58 @@
 			["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-v"],
 			["hebdomada-i-adventus","nona","antiphona","antiphona-v"]
 		],
-		"datum":"/gregobase/antiphonae/2631"
+		"datum":[["/antiphonae/2631"]]
   },
   {
 		"tags":["hebdomada-i-adventus","dominica","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12304"
+		"datum":[["/antiphonae/12304"]]
   },
   {
 		"tags":["hebdomada-i-adventus","dominica","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2629"
+		"datum":[["/antiphonae/2629"]]
   },
   {
 		"tags":["hebdomada-i-adventus","feria-ii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13074"
+		"datum":[["/antiphonae/13074"]]
   },
   {
 		"tags":["hebdomada-i-adventus","feria-ii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/11764"
+		"datum":[["/antiphonae/11764"]]
   },
   {
 		"tags":["hebdomada-i-adventus","feria-iii","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12719"
+		"datum":[["/antiphonae/12719"]]
   },
   {
 		"tags":["hebdomada-i-adventus","feria-iii","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/13038"
+		"datum":[["/antiphonae/13038"]]
   },
   {
 		"tags":["hebdomada-i-adventus","feria-iv","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/11819"
+		"datum":[["/antiphonae/11819"]]
   },
   {
 		"tags":["hebdomada-i-adventus","feria-iv","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/11882"
+		"datum":[["/antiphonae/11882"]]
   },
   {
 		"tags":["hebdomada-i-adventus","feria-v","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12807"
+		"datum":[["/antiphonae/12807"]]
   },
   {
     "tags":["hebdomada-i-adventus","feria-v","vesperae","antiphona","antiphona-magnificat"],
-    "datum":"/gregobase/antiphonae/2713"
+    "datum":[["/antiphonae/2713"]]
   },
   {
 		"tags":["hebdomada-i-adventus","feria-vi","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/13206"
+		"datum":[["/antiphonae/13206"]]
   },
   {
 		"tags":["hebdomada-i-adventus","feria-vi","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2354"
+		"datum":[["/antiphonae/2354"]]
   },
   {
 		"tags":["hebdomada-i-adventus","sabbatum","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/2270"
+		"datum":[["/antiphonae/2270"]]
   }
 ]

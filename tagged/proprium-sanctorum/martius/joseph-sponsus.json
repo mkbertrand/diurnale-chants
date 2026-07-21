@@ -1,18 +1,18 @@
 [
   {
 		"tags":["joseph-sponsus","i-vesperae","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2663",
-		"antiphona-ii":"/gregobase/antiphonae/2146",
-		"antiphona-iii":"/gregobase/antiphonae/2778",
-		"antiphona-iv":"/gregobase/antiphonae/1865",
-		"antiphona-v":"/gregobase/antiphonae/2673",
-		"antiphona-magnificat":"/gregobase/antiphonae/2664"
+		"antiphona-i":[["/antiphonae/2663"]],
+		"antiphona-ii":[["/antiphonae/2146"]],
+		"antiphona-iii":[["/antiphonae/2778"]],
+		"antiphona-iv":[["/antiphonae/1865"]],
+		"antiphona-v":[["/antiphonae/2673"]],
+		"antiphona-magnificat":[["/antiphonae/2664"]]
   },
   {
     "tags":["joseph-sponsus","hymnus"],
-		"vesperae":"/gregobase/hymni/2235",
+		"vesperae":[["/hymni/2235"]],
 		"matutinum":"/nocturnale/0319H",
-		"laudes":"/gregobase/hymni/12237"
+		"laudes":[["/hymni/12237"]]
   },
   {
 		"tags":["joseph-sponsus","matutinum","antiphona","antiphona-invitatorium"],
@@ -41,18 +41,18 @@
   },
   {
     "tags":["joseph-sponsus","antiphona"],
-		"antiphona-i":"/gregobase/antiphonae/2690",
-		"antiphona-ii":"/gregobase/antiphonae/2607",
-		"antiphona-iii":"/gregobase/antiphonae/2796",
-		"antiphona-iv":"/gregobase/antiphonae/2244",
-		"antiphona-v":"/gregobase/antiphonae/2147"
+		"antiphona-i":[["/antiphonae/2690"]],
+		"antiphona-ii":[["/antiphonae/2607"]],
+		"antiphona-iii":[["/antiphonae/2796"]],
+		"antiphona-iv":[["/antiphonae/2244"]],
+		"antiphona-v":[["/antiphonae/2147"]]
   },
   {
 		"tags":["joseph-sponsus","laudes","antiphona","antiphona-benedictus"],
-		"datum":"/gregobase/antiphonae/12158"
+		"datum":[["/antiphonae/12158"]]
   },
   {
 		"tags":["joseph-sponsus","ii-vesperae","antiphona","antiphona-magnificat"],
-		"datum":"/gregobase/antiphonae/2431"
+		"datum":[["/antiphonae/2431"]]
   }
 ]
