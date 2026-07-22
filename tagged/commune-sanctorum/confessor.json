@@ -27,10 +27,10 @@
   },
   {
 		"tags":["confessor","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/COPONA1A1",
-		"in-tempore-paschali":"/nocturnale/COPONA1A1",
-		"antiphona-ii":"/nocturnale/COPONA1A2",
-		"antiphona-iii":"/nocturnale/COPONA1A3"
+		"antiphona-i":"/nocturnale/COPON1A1",
+		"in-tempore-paschali":"/nocturnale/COPON1A1",
+		"antiphona-ii":"/nocturnale/COPON1A2",
+		"antiphona-iii":"/nocturnale/COPON1A3"
   },
   {
 		"tags":["confessor","matutinum","nocturna-ii","antiphona"],
