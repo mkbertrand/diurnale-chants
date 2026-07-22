@@ -28,7 +28,7 @@
 		"tags":["nativitas","matutinum","nocturna-iii","antiphona"],
 		"antiphona-i":[["/antiphonae/1225N3A1"]],
 		"antiphona-ii":[["/antiphonae/1225N3A2"]],
-		"antiphona-iii":"nocturnale/1225N3A3"
+		"antiphona-iii":[["/antiphonae/1225N3A3"]]
   },
   {
 		"tags":["nativitas","antiphona"],
